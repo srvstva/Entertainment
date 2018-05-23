@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Movie Trivia</string>
+    <string name="app_name">Movie DB</string>
     <string name="tab_top_rated">TOP RATED</string>
     <string name="tab_games">GAMES</string>
     <string name="tab_movies">MOVIES</string>
