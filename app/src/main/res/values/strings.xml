@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Entertainment</string>
+    <string name="tab_top_rated">TOP RATED</string>
+    <string name="tab_games">GAMES</string>
+    <string name="tab_movies">MOVIES</string>
+
+    <string name="hello_blank_fragment">Top Rated Movies</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_shop">Shop</string>
+</resources>
